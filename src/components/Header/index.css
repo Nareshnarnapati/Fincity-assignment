@@ -1,0 +1,25 @@
+p{
+    font-family:"roboto";
+    font-size:25px;
+    color:black;
+    padding:10px;
+
+}
+.bg-con{
+    display:flex;
+    justify-content:space-between;
+   
+  
+}
+.category{
+    display:flex;
+    flex-direction:row;
+   
+    justify-content:space-around;
+    background-color: #FDC435;
+    width:40.2%;
+    flex-wrap:wrap;
+    ;
+
+
+}
