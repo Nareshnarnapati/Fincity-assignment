@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fincity-assignment/static/css/main.a2b94fbe.css",
+    "main.js": "/Fincity-assignment/static/js/main.b513447c.js",
+    "index.html": "/Fincity-assignment/index.html",
+    "main.a2b94fbe.css.map": "/Fincity-assignment/static/css/main.a2b94fbe.css.map",
+    "main.b513447c.js.map": "/Fincity-assignment/static/js/main.b513447c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b94fbe.css",
+    "static/js/main.b513447c.js"
+  ]
+}
